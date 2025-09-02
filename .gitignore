@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FileScannerAPI/bin/Debug/net8.0
+/FileScannerAPI/obj
+/FileScannerAPI/appsettings.Development.json
+/UploadSampleApp/bin/Debug/net8.0
+/UploadSampleApp/obj
+/UploadSampleApp/appsettings.Development.json
